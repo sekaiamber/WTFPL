@@ -1,7 +1,7 @@
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
+                    Version 1, August 2015
 
- Copyright (C) 2012 Romain Lespinasse <romain.lespinasse@gmail.com>
+ Copyright (C) 2015 sekaiamber <a3824036@126.com>
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
